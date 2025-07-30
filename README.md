@@ -38,4 +38,17 @@ Dự án được thực hiện trong khuôn khổ môn **Phân tích nghiệp v
 
 ---
 
+---
+
+#### 📌 Mục tiêu  
+
+- Hiểu nghiệp vụ đặt cỗ & vai trò các bên liên quan  
+- Mô hình hóa yêu cầu bằng sơ đồ và tài liệu chuẩn BA  
+- Chuẩn bị nền tảng cho triển khai hệ thống phần mềm
+
+---
+
+
+
+
 
